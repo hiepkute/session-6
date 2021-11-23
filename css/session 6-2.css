@@ -1,0 +1,50 @@
+#cabai {
+    background-color: #ffffcc;
+}
+#bia {    
+    margin-left: 20px ;
+}
+#cabai h2{
+    background-color: #f7c363;
+    color: #cf3302 ;
+    font-size: 22px ;
+    text-align: center;
+    padding: 10px ;
+    margin: -10px ;
+    margin-left: -25px ;
+}
+#cabai .thanbai {
+    display: flex;
+    width: 100%;
+    
+}
+#cabai .thanbai .img {
+    width: 6% ;
+    height: 50px ;
+    padding: 17px 10px  ;
+}
+#cabai .link {
+    font-weight: bold;
+}
+#cabai .h4 {
+    font-weight: bold;
+    color: #d0710e; 
+}
+#cabai .p {
+    color: #05379a;
+    font-weight: bold;
+}
+#cabai .sp {
+    color: #CD6802 ;
+}
+#cabai .sp2 {
+    color: black;
+}
+#cabai .p2 {
+    color: green;
+    width: 100% 
+}
+#cabai .ketbai {
+    color: cyan;
+    text-align: center;
+}
